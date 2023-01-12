@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\bin\Debug\net6.0\4 - Procurando Valor.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\bin\Debug\net6.0\4 - Procurando Valor.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\bin\Debug\net6.0\4 - Procurando Valor.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\bin\Debug\net6.0\4 - Procurando Valor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\bin\Debug\net6.0\4 - Procurando Valor.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\refint\4 - Procurando Valor.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\4 - Procurando Valor.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\4 - Procurando Valor\4 - Procurando Valor\obj\Debug\net6.0\ref\4 - Procurando Valor.dll

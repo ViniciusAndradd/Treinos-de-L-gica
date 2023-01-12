@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vogal ou consoante</title>
+<!-- Faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante. -->  
+    <script>
+        function conferir() {
+            var sigla = document.getElementById('letra').value
+            sigla.toLowerCase()
+            console.log(sigla)
+            if (sigla == 'a' || sigla == 'e' || sigla == 'i' || sigla == 'o' || sigla == 'u' || sigla == 'A' || sigla == 'E' || sigla == 'I' || sigla == 'O' || sigla == 'U') {
+                document.write('A letra "'+sigla+'" é uma vogal')
+            } else {
+                document.write('A é letra "'+sigla+'" é uma consoante')
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+    <label>Insira uma letra</label>
+    <input id="letra" type="text">
+    <button onclick="conferir()">Conferir</button>
+</body>
+
+</html>

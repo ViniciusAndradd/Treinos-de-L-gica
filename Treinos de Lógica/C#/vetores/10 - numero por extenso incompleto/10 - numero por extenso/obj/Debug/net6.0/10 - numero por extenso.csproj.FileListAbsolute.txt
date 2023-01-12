@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\bin\Debug\net6.0\10 - numero por extenso.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\bin\Debug\net6.0\10 - numero por extenso.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\bin\Debug\net6.0\10 - numero por extenso.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\bin\Debug\net6.0\10 - numero por extenso.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\bin\Debug\net6.0\10 - numero por extenso.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\refint\10 - numero por extenso.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\10 - numero por extenso.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\10 - numero por extenso\10 - numero por extenso\obj\Debug\net6.0\ref\10 - numero por extenso.dll

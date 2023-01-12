@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vogal ou consoante</title>
+    <!-- 5- Faça um programa para a leitura de duas notas parciais de um aluno.  
+
+        A mensagem “Aprovado”, se a média alcançada for maior ou igual a sete;
+        A mensagem “Aprovado com Distinção”, se a média for igual a dez;
+        A mensagem “Reprovado” se a média for menor de do que sete; -->
+    <script>
+        function conferir() {
+            var num1 = document.getElementById('n1').value
+            var num2 = document.getElementById('n2').value
+             num1 = parseInt(num1)
+             num2 = parseInt(num2)
+            var media = (num1 + num2) / 2
+            if (media >= 7) {
+                document.write('Média: '+ media +' (Aluno Aprovado)')
+            } else if (media == 10) {
+                document.write('Média: '+ media +' (Aprovado com distinção)')
+            } else {
+                document.write('Média: '+ media +' (Aluno reprovado)')
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+    <label>Matemática</label>
+    <input id="n1" type="text">
+    <label>Português</label>
+    <input id="n2" type="text">
+    <button onclick="conferir()">Conferir</button>
+</body>
+
+</html>

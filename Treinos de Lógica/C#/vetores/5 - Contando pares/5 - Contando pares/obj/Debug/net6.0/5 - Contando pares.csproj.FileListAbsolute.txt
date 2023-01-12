@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\bin\Debug\net6.0\5 - Contando pares.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\bin\Debug\net6.0\5 - Contando pares.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\bin\Debug\net6.0\5 - Contando pares.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\bin\Debug\net6.0\5 - Contando pares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\bin\Debug\net6.0\5 - Contando pares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\refint\5 - Contando pares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\5 - Contando pares.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\5 - Contando pares\5 - Contando pares\obj\Debug\net6.0\ref\5 - Contando pares.dll

@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\bin\Debug\net6.0\Troca entre primeiros e ultimos.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\bin\Debug\net6.0\Troca entre primeiros e ultimos.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\bin\Debug\net6.0\Troca entre primeiros e ultimos.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\bin\Debug\net6.0\Troca entre primeiros e ultimos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\bin\Debug\net6.0\Troca entre primeiros e ultimos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\refint\Troca entre primeiros e ultimos.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\Troca entre primeiros e ultimos.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Troca entre primeiros e ultimos\Troca entre primeiros e ultimos\obj\Debug\net6.0\ref\Troca entre primeiros e ultimos.dll

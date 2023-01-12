@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maior de dois</title>
+    <!--1 - Faça um programa que peça dois números e verifique (usando if e else) e imprima o maior deles -->
+    <script>
+        function comparar() {
+            var num1 = document.getElementById('n1').value
+            var num2 = document.getElementById('n2').value
+            var maioral
+            if (num1 > num2) {
+                maioral = num1
+                document.getElementById('maior').value = maioral
+            } else {
+                maioral = num2
+                document.getElementById('maior').value = maioral
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+    <label>Numero 1:</label>
+    <input id="n1" type="text">
+    <label>Numero 2:</label>
+    <input id="n2" type="text">
+    <button onclick="comparar()">Comparar</button>
+    <hr>
+    <label>O maior:</label>
+    <input id="maior" type="text" disabled="disabled">
+
+
+</body>
+
+</html>

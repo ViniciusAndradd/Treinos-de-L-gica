@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\bin\Debug\net6.0\Primeiros Ímpares.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\bin\Debug\net6.0\Primeiros Ímpares.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\bin\Debug\net6.0\Primeiros Ímpares.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\bin\Debug\net6.0\Primeiros Ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\bin\Debug\net6.0\Primeiros Ímpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\refint\Primeiros Ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\Primeiros Ímpares.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\Primeiros Ímpares\Primeiros Ímpares\obj\Debug\net6.0\ref\Primeiros Ímpares.dll

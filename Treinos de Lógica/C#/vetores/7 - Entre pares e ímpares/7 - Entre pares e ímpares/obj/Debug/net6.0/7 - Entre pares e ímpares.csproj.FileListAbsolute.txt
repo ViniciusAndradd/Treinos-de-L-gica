@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\bin\Debug\net6.0\7 - Entre pares e ímpares.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\bin\Debug\net6.0\7 - Entre pares e ímpares.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\bin\Debug\net6.0\7 - Entre pares e ímpares.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\bin\Debug\net6.0\7 - Entre pares e ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\bin\Debug\net6.0\7 - Entre pares e ímpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\refint\7 - Entre pares e ímpares.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\7 - Entre pares e ímpares.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\7 - Entre pares e ímpares\7 - Entre pares e ímpares\obj\Debug\net6.0\ref\7 - Entre pares e ímpares.dll

@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\bin\Debug\net6.0\8 - troca de posições.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\bin\Debug\net6.0\8 - troca de posições.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\bin\Debug\net6.0\8 - troca de posições.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\bin\Debug\net6.0\8 - troca de posições.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\bin\Debug\net6.0\8 - troca de posições.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\refint\8 - troca de posições.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\8 - troca de posições.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos\Treinos de Lógica\C#\8 - troca de posições\8 - troca de posições\obj\Debug\net6.0\ref\8 - troca de posições.dll
